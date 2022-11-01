@@ -1,5 +1,5 @@
 # prosperodev-libpng
-- lipng ported from EAWebkit by @psxdev
+- libpng ported from EAWebkit by @psxdev
 
 LICENSE
 ===================
